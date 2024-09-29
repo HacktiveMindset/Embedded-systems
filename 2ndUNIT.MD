@@ -13,7 +13,7 @@ Embedded systems are the brains behind everyday devices, and Unit II dives into 
 * **Communication Interfaces:** Protocols like UART, SPI, I2C, and USB allow the embedded system to talk to other devices or systems. Think of them as different languages for electronic conversations.
 
 **Diagram: Embedded System Components**
-
+[]
 
 **Sensing and Acting on the World:**
 
