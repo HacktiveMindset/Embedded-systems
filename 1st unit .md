@@ -71,7 +71,8 @@ The key components of an embedded system are:
 4. **Power Supply:** Provides necessary power.
 
 **Diagram: Typical Embedded System Architecture**
-[Image of Typical Embedded System Architecture]
+[![image](https://github.com/user-attachments/assets/876a04ba-6e74-4dea-a630-b1f0b8652234)
+]
 
 **Memory Organization for Embedded Systems**
 
@@ -85,7 +86,8 @@ The key components of an embedded system are:
 Embedded systems often combine volatile (RAM) and non-volatile (ROM, Flash) memory for efficiency.
 
 **Diagram: Memory Organization**
-[Image of Memory Organization]
+[![image](https://github.com/user-attachments/assets/ae668c8a-b826-47d0-aa65-57c2b0e1f6fb)
+]
 
 **Design Challenges in Embedded Systems**
 
@@ -100,16 +102,5 @@ Embedded systems often combine volatile (RAM) and non-volatile (ROM, Flash) memo
 
 * Selecting the right microcontroller, understanding power requirements, and designing for maintainability.
 
-**Summary and Importance of Embedded Systems**
 
-**Summary:**
-Embedded systems are essential in modern technology, providing functionalities across various applications. Understanding their characteristics, components, and challenges is crucial for developing efficient embedded applications.
-
-**Importance:**
-
-* **Innovation:** Embedded systems drive advancements in technology, enabling smart solutions.
-* **Efficiency:** They enhance automation, leading to improved productivity and safety.
-* **Connectivity:** With the rise of the Internet of Things (IoT), embedded systems facilitate communication between devices, creating smarter environments.
-
-**I hope this revised summary with diagrams is helpful! Please let me know if you have any further questions.**
 
