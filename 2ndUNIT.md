@@ -13,7 +13,8 @@ Embedded systems are the brains behind everyday devices, and Unit II dives into 
 * **Communication Interfaces:** Protocols like UART, SPI, I2C, and USB allow the embedded system to talk to other devices or systems. Think of them as different languages for electronic conversations.
 
 **Diagram: Embedded System Components**
-[]
+[![image](https://github.com/user-attachments/assets/db70ed84-904b-4cf9-92c2-fc28c373d7ec)
+]
 
 **Sensing and Acting on the World:**
 
@@ -21,7 +22,8 @@ Embedded systems are the brains behind everyday devices, and Unit II dives into 
 * **Actuators:** They're the hands and feet, taking electrical signals from the MCU/MPU and translating them into physical actions like turning a motor or lighting an LED.
 
 **Diagram: Sensors and Actuators**
-[Image of Sensors and Actuators]
+[![image](https://github.com/user-attachments/assets/aa0737a5-e23f-4b02-ae97-812f0cb9ec86)
+]
 
 **Talking to Other Devices:**
 
@@ -33,7 +35,8 @@ Communication interfaces allow embedded systems to exchange information with oth
 * **USB (Universal Serial Bus):** A widely used standard for connecting various peripherals.
 
 **Diagram: Communication Interfaces**
-[Image of Communication Interfaces]
+[![image](https://github.com/user-attachments/assets/5d028234-dbf0-4a2a-9ef4-7d2cd1a82e05)
+]
 
 **Embedded Firmware: The Invisible Conductor**
 
@@ -44,7 +47,8 @@ Firmware is the software embedded in the hardware that controls the system's ope
 *  Implementing control algorithms (the logic behind how the system functions)
 
 **Diagram: Embedded Firmware Architecture**
-[Image of Embedded Firmware Architecture]
+[![image](https://github.com/user-attachments/assets/34d083f2-29e6-4a96-8d64-fb28838c3434)
+]
 
 **More Building Blocks:**
 
@@ -75,5 +79,6 @@ Embedded systems are everywhere! Here are a couple of examples:
 * **Automotive Systems:** Engine control units, anti-lock braking systems, and infotainment systems all rely on embedded systems.
 
 **Diagram: Embedded Systems in Everyday Life**
-[Image of Embedded Systems in Everyday Life]
+![image](https://github.com/user-attachments/assets/69d7dc66-f875-4f43-89c8-b96f553f891b)
+
 
